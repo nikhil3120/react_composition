@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_composition/static/css/main.6fcb053b.css",
+    "main.js": "/react_composition/static/js/main.d2f61c2b.js",
+    "index.html": "/react_composition/index.html",
+    "main.6fcb053b.css.map": "/react_composition/static/css/main.6fcb053b.css.map",
+    "main.d2f61c2b.js.map": "/react_composition/static/js/main.d2f61c2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fcb053b.css",
+    "static/js/main.d2f61c2b.js"
+  ]
+}
